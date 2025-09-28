@@ -235,6 +235,7 @@ Though not mandated, tracking to and adherence with other AI/LLM security framew
 
 |Framework Name|Country/Region|Enactment Date|Key Concern(s) Addressed|
 |-|-|-|-|
+|[Framework Act on Artificial Intelligence Development and Establishment of a Foundation for Trustworthiness](https://cset.georgetown.edu/publication/south-korea-ai-law-2025/)|South Korea|January 2025|Establishes risk management for high-impact AI systems and mandates transparency for generative AI outputs|
 |[Artificial Intelligence Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206)|European Union|August 2024|Establishes a risk-based classification system for AI applications|
 |[ELVIS Act](https://www.capitol.tn.gov/Bills/113/Bill/SB2096.pdf)|United States|March 2024|Addresses unauthorized use of AI in replicating|voices and likenesses|
 |[Executive Order 14110: Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence)|United States|October 2023|Defines national policy goals for AI governance and mandates agency actions|
