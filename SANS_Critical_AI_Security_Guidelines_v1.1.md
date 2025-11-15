@@ -1,5 +1,7 @@
 # SANS Critical AI Security Guidelines
 
+> **Language**: [English](SANS_Critical_AI_Security_Guidelines_v1.1.md) | [한국어](SANS_Critical_AI_Security_Guidelines_v1.1.ko.md)
+
 v1.1
 
 ## Contributing Authors

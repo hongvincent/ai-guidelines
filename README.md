@@ -1,5 +1,7 @@
 # SANS AI Critical Security Guidelines
 
+> **Language**: [English](README.md) | [한국어](README.ko.md)
+
 Welcome to the **SANS AI Critical Security Guidelines** repository. In March 2025, SANS published the inaugural version of this comprehensive framework, which encompasses critical security concerns and controls for AI implementations and usage within enterprise environments. Recognizing the dynamic nature of artificial intelligence as a rapidly evolving field, we are releasing this paper as a "living document" to foster collaborative improvement through community engagement.
 
 ## Version Information
