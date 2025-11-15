@@ -1,5 +1,7 @@
 # CLAUDE.md - AI Assistant Guide for SANS AI Critical Security Guidelines
 
+> **Language**: [English](CLAUDE.md) | [한국어](CLAUDE.ko.md)
+
 ## Repository Overview
 
 This repository hosts the **SANS AI Critical Security Guidelines**, a living document that provides comprehensive security controls and best practices for AI implementations in enterprise environments. Published initially in March 2025, this is a collaborative, community-driven project designed to evolve with the rapidly changing AI security landscape.
